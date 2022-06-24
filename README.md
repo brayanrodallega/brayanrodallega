@@ -26,11 +26,11 @@
 
 ![mi perfil](https://github.com/brayanrodallega/brayanrodallega/blob/main/Banner.png)
 
-# Redes sociales:
+# Social Networks:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/brayan1a1" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Brayan Rodallega" width="30"  /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/brayanrodallega/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Brayan Rodallega" width="30" /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:thebrayan1a1@outlook.com' target='_blank'><img src="./assets/social-media/outlook.svg" width="30" alt="Brayan Rodallega" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:thebrayan1a1@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Brayan Rodallega" /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.com/user/947269343790649364" target="_blank" ><img src="./assets/discord.svg" alt="Brayan Rodallega" width='30'></a>
 <a href="https://www.youtube.com/channel/UCuvq-l94LVPqSZQnv8Lop4Q">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Brayan Rodallega YouTube Channel" height="30" width="30">
@@ -82,17 +82,11 @@
 
  <br/>
 
-<table width="100%" border: none > 
-  <tr border: none>
-    <td width="50%" border: none>
-        &nbsp; <br>
-        <a href="https://github.com/brayanrodallega/brayanrodallega"><img alt="" src="https://github-readme-stats.vercel.app/api?username=brayanrodallega&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
-  </td>
-  <td width="50%" border: none>
-        <a href="https://brayanrodallega.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanrodallega&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </td>
-  </tr>
-</table>
+
+<a href="https://github.com/brayanrodallega/brayanrodallega"><img alt="Brayan Rodallega" src="https://github-readme-stats.vercel.app/api?username=brayanrodallega&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://brayanrodallega.github.io/"><img alt="Brayan Rodallega" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanrodallega&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
