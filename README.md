@@ -26,7 +26,7 @@
 
 ![mi perfil](https://github.com/brayanrodallega/brayanrodallega/blob/main/Banner.png)
 
-# Redes sociales:
+# Social Networks:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/brayan1a1" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Brayan Rodallega" width="30"  /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/brayanrodallega/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Brayan Rodallega" width="30" /></a>
@@ -38,7 +38,6 @@
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👨🏾‍🦱 Brayan | 👨‍💻 Full-Stack Developer | Colombia</p>
-
 
 <br />
 
@@ -83,17 +82,11 @@
 
  <br/>
 
-<table width="100%" border: none > 
-  <tr border: none>
-    <td width="50%" border: none>
-        &nbsp; <br>
-        <a href="https://github.com/brayanrodallega/brayanrodallega"><img alt="" src="https://github-readme-stats.vercel.app/api?username=brayanrodallega&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
-  </td>
-  <td width="50%" border: none>
-        <a href="https://brayanrodallega.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanrodallega&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </td>
-  </tr>
-</table>
+
+<a href="https://github.com/brayanrodallega/brayanrodallega"><img alt="Brayan Rodallega" src="https://github-readme-stats.vercel.app/api?username=brayanrodallega&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://brayanrodallega.github.io/"><img alt="Brayan Rodallega" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanrodallega&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
