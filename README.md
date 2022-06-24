@@ -39,7 +39,6 @@
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👨🏾‍🦱 Brayan | 👨‍💻 Full-Stack Developer | Colombia</p>
 
-
 <br />
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
