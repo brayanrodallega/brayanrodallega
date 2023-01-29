@@ -5,7 +5,7 @@
  https://github.com/naveenverma1/naveenverma1 -->
 <div>
 
-# 👋 Hi there, I am <a href="brayanrodallega.github.io">Brayan Rodallega!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://linktr.ee/brayan1a1">Brayan Rodallega!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
