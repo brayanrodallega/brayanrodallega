@@ -16,10 +16,9 @@
 ![](https://img.shields.io/github/followers/brayanrodallega?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/brayanrodallega?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=brayanrodallega&style=flat-square&color=ff69b4)
-<a href="https://discord.com/user/947269343790649364">
-        <img src="https://img.shields.io/badge/discord-Brayan1a1%239991-369?style=flat-square&logo=discord&logoColor=white&color=purple" alt="Discord" title="Discord">
-</a>
-<a href="https://www.linkedin.com/in/brayan-rodallega/">
+<img src="https://img.shields.io/badge/discord-Brayan1a1%239991-369?style=flat-square&logo=discord&logoColor=white&color=purple" alt="Discord" title="Discord">
+
+ <a href="https://www.linkedin.com/in/brayan-rodallega/">
         <img src="https://img.shields.io/badge/linkedIn-Brayan Rodallega-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
 </a>
 
