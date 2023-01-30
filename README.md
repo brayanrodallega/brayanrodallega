@@ -28,9 +28,11 @@
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/brayan1a1" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Brayan Rodallega" width="30"  /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/brayanrodallega/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Brayan Rodallega" width="30" /></a>
+ <!--
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:thebrayan1a1@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Brayan Rodallega" /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.com/user/947269343790649364" target="_blank" ><img src="./assets/discord.svg" alt="Brayan Rodallega" width='30'></a>
-<a href="https://www.youtube.com/channel/UCuvq-l94LVPqSZQnv8Lop4Q">
+-->
+<a href="https://www.youtube.com/@Brayan1a1">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Brayan Rodallega YouTube Channel" height="30" width="30">
 </a>
 </div>
