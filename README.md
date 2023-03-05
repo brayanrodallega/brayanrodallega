@@ -5,7 +5,7 @@
  https://github.com/naveenverma1/naveenverma1 -->
 <div>
 
-# 👋 Hi there, I am <a href="https://linktr.ee/brayan1a1">Brayan Rodallega!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://brayanrodallega.github.io/" target="_blank">Brayan Rodallega!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
@@ -90,7 +90,7 @@
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-⭐️ From [Brayan Rodallega](https://linktr.ee/brayan1a1)
+⭐️ From <a href="https://brayanrodallega.github.io/" target="_blank">Brayan Rodallega</a>
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanrodallega&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle)
