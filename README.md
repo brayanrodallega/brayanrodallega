@@ -22,7 +22,7 @@
 </a>
 
 
-![mi perfil](https://github.com/brayanrodallega/brayanrodallega/blob/main/Banner.png)
+![mi perfil](https://github.com/brayanrodallega/brayanrodallega/blob/main/banner.png)
 
 # Social Networks:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
